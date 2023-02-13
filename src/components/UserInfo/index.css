@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.user-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image {
+  background-color: #ffffff;
+  width: 100px;
+  margin-top: 31px;
+}
+
+.user-name {
+  color: #12022f;
+  margin-top: 20px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.user-para {
+  color: #616e7c;
+  font-size: 14px;
+}
